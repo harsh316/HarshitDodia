@@ -66,12 +66,8 @@ const Hero = () => {
     <>
       <p>
         I’m a Cybersecurity Analyst specializing in threat detection, incident response, 
-      SIEM engineering, and network defense. I work with modern security tools like 
-      Splunk, Sentinel, CrowdStrike, Nessus, and Elastic to protect organizations from 
-      evolving cyber threats.
-      <br /><br />
-      My focus is on building scalable security operations, hunting threats, analyzing 
-      logs, strengthening cloud security, and designing secure infrastructures aligned 
+      SIEM engineering, and network defense. Focused on building scalable security operations, hunting threats, analyzing 
+      logs, and designing secure infrastructures aligned 
       with MITRE ATT&CK and Zero Trust principles. {' '}
       
       </p>
