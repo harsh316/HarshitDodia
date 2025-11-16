@@ -60,28 +60,30 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Harshit Dodia.</h2>;
+  const three = <h3 className="big-heading">I secure systems, networks, and cloud environments.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a Cybersecurity Analyst specializing in threat detection, incident response, 
+      SIEM engineering, and network defense. I work with modern security tools like 
+      Splunk, Sentinel, CrowdStrike, Nessus, and Elastic to protect organizations from 
+      evolving cyber threats.
+      <br /><br />
+      My focus is on building scalable security operations, hunting threats, analyzing 
+      logs, strengthening cloud security, and designing secure infrastructures aligned 
+      with MITRE ATT&CK and Zero Trust principles. {' '}
+      
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://medium.com/@freakydodo"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my Blogs!
     </a>
   );
 
